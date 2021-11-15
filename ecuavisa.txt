@@ -1,1 +1,1 @@
-http://45.187.0.41:12487/tvusa/live/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png
+http://45.187.0.41:12487/tvusa/live/playlist.m3u8,https://cloud.orobla.net/index.php/core/preview?fileId=39503&x=1366&y=768&a=true
