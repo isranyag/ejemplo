@@ -1,0 +1,1 @@
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8,https://cloud.orobla.net/index.php/apps/files_sharing/publicpreview/X5dcBydmBGrZPQJ?x=1366&y=307&a=true&file=ecuavisa.png
