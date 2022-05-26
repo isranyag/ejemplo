@@ -1,1 +1,1 @@
-http://45.187.0.41:12487/tvagama/live/playlist.m3u8,http://45.187.0.41:12487/tvusa/live/playlist.m3u8,https://cloud.orobla.net/index.php/apps/files_sharing/publicpreview/CPQxZb7wiXfZ3Q8?x=1366&y=307&a=true&file=rts.png
+http://45.187.0.1:12487/tvagama/live/playlist.m3u8,http://45.187.0.1:12487/tvusa/live/playlist.m3u8,https://cloud.orobla.net/index.php/apps/files_sharing/publicpreview/CPQxZb7wiXfZ3Q8?x=1366&y=307&a=true&file=rts.png
