@@ -1,1 +1,1 @@
-http://45.187.0.41:12487/tvusa/live/playlist.m3u8,https://raw.githubusercontent.com/isranyag/imagenespublicitarias/main/tvoro.png
+http://45.187.0.1:12487/tvusa/live/playlist.m3u8,https://raw.githubusercontent.com/isranyag/imagenespublicitarias/main/tvoro.png
